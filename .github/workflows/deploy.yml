@@ -30,4 +30,3 @@ jobs:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           working-directory: .
-          alias-domains: your-domain.vercel.app
