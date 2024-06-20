@@ -25,8 +25,5 @@ jobs:
           pip install -r requirements.txt
 
       - name: Deploy to Vercel
-        uses: amondnet/vercel-action@v20
-        with:
-          vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          working-directory: .
+        run: |
+          npx vercel --prod --token ${{ secrets.VERCEL_TOKEN }} --confirm
