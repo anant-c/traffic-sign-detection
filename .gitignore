@@ -1,0 +1,11 @@
+/static/input/video
+/static/input/photo
+/AE*
+/best*
+/trained*
+/data
+/static/input/trained*
+/static/model2/best*
+/.vscode
+/__pycache__
+/static/models/yolo*

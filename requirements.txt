@@ -1,0 +1,5 @@
+watchdog
+opencv-python
+flask
+ultralytics
+numpy
