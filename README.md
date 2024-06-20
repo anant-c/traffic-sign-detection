@@ -1,5 +1,6 @@
 # traffic-sign-detection
 
+## DEMO of the project: https://youtu.be/sXNZxZoMnJQ?si=AmSlUtXPQIIc7Nx6
 ## 1. Methodology
 ![image](https://github.com/anant-c/traffic-sign-detection/assets/95924468/9b88c34c-0957-46b6-b946-a18e78deadb4)
 
