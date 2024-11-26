@@ -14,9 +14,9 @@ print(f'Using device: {device}')
 
 video = cv2.VideoCapture('')
 photo = ''
-MODEL_FILE="static/model2/best.pt"
+MODEL_FILE="static/models/best.pt"
 COCO_FILE="static/coco.txt"
-MODEL_PHOTO="static/model2/best.pt"
+MODEL_PHOTO="static/models/best.pt"
 COCO_FILE1="static/coco.txt"
 
 @app.route('/')
